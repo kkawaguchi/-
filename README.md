@@ -132,9 +132,6 @@ Hello, World!
 ## 事前準備
 
 1. JDK8 をインストール
-1. [Oracle のサイト](http://www.oracle.com/technetwork/java/javase/downloads/index.html)より、JDKをダウンロードする
-1. ダウンロードしたファイルをインストールする
-1. インストールが完了したら環境変数に JAVA_HOME を追加する
 
 **環境変数の追加について**
 
